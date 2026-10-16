@@ -29,3 +29,7 @@ An interactive Power BI dashboard created for Task 3 of the SWYNEX Data Analyst 
 
 ## Internship
 SWYNEX Data Analyst Internship — Task 3: Interactive Dashboard.
+
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard_preview.png)
